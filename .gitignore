@@ -20,6 +20,9 @@ env
 #Windows Junk
 Thumbs.db
 
+#any docs generated
+*.html
+
 #possible pycache files
 __pycache__/
 *.pyc

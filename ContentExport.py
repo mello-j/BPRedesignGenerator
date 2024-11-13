@@ -128,7 +128,7 @@ def course_export(course_number):
            before extending to google
            '''
 
-    file_name = "BlueprintRedesign.html"  # name sucks
+    file_name = "document.html"  # name sucks
     print(f"Creating {file_name}")  # terminal output for now
     # Open a file to append data to
     with open(file_name, 'a', encoding="utf-8") as f:
