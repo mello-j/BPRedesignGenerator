@@ -1,0 +1,25 @@
+# created by virtualenv automatically
+
+#ignore venv environment files
+*.venv
+venv/
+ENV/
+env/
+
+# pycharm files
+*.idea
+
+# ignore environemnt
+env
+.env
+*.env
+
+#Ignore Mac Junk
+.DS_Store
+
+#Windows Junk
+Thumbs.db
+
+#possible pycache files
+__pycache__/
+*.pyc

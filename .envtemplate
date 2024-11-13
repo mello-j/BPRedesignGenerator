@@ -1,0 +1,10 @@
+# This is a template file that may be extended for additional tokens
+# 1) Rename this file to .env
+# 2) Update your tokens and URLs as required
+# 3) Save the file and ensure it's not committed to version control (use .gitignore)
+
+# Your API Token for accessing the service
+API_TOKEN=INSERT_YOUR_API_TOKEN_HERE
+
+# Base URL for the Canvas instance
+BASE_URL=INSERT_BASE_CANVAS_INSTANCE_HERE
